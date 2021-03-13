@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.Success{
+margin-top:20px;
+margin-bottom:20px;
+color:green;
+}
+
+.button{
+width:15%;
+height:15%;
+background-color:blue;
+color:black;
+}
+
+
